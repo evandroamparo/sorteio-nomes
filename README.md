@@ -1,2 +1,7 @@
 # sorteio-nomes
-Sortea nomes de um arquivo CSV e grava os resultados num arquivo txt
+Sorteia nomes de um arquivo CSV e grava os resultados num arquivo txt
+
+- Crie um arquivo `nomes.txt` com um nome por linha
+- Execute o sorteio
+- Os nomes sorteados vão para o arquivo `sorteados.txt`
+- O programa sorteia um nome aleatoriamente até encontrar um que não tenha sido sorteado ou até sortear todos os nomes
