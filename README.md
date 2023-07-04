@@ -1,5 +1,5 @@
 # sorteio-nomes
-Sorteia nomes de um arquivo CSV e grava os resultados num arquivo txt
+Sorteia nomes de um arquivo de entrada e grava os resultados num arquivo
 
 - Crie um arquivo `nomes.txt` com um nome por linha
 - Execute o sorteio
